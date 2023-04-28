@@ -1,0 +1,45 @@
+.recipe {
+  padding: 20px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #000;
+}
+
+.recipe:last-child {
+  border-bottom: none;
+}
+
+.recipe--header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.recipe--title {
+  margin: 0;
+  font-size: 1.75rem;
+  text-decoration: underline;
+}
+
+.recipe--row {
+  margin-top: 10px;
+}
+
+.recipe--label {
+  margin-right: 5px;
+  font-weight: 500;
+}
+
+.recipe--value {
+  font-weight: 100;
+  color: red;
+}
+
+.recipe--value--indented {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.recipe--instructions {
+  white-space: pre-wrap;
+}

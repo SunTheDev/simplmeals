@@ -1,0 +1,38 @@
+.recipe-list {
+  border-right: 1px solid black;
+  min-height: 100vh;
+  width: 50%;
+}
+
+.addRecipeBtnContainer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  margin-left: 203px;
+}
+
+.titleandAdd {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+  background-color: rgba(190, 218, 241, 0.506);
+  background: linear-gradient(to bottom, rgb(190, 218, 241), white);
+}
+
+.apptitle {
+  margin-top: 28px;
+  background-image: linear-gradient(to right, rgb(246, 9, 9), rgb(246, 9, 9));
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  padding-left: 50px;
+}
+
+.searchBox {
+  width: inherit;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+}

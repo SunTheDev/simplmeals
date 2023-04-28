@@ -1,0 +1,27 @@
+.btn {
+  background: none;
+  border: none;
+  outline: none;
+  font-size: inherit;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.btn--primary {
+  color: white;
+  background-color: rgb(64, 132, 228);
+}
+
+.btn--primary:hover {
+  background-color: rgb(113, 161, 227);
+}
+.btn--red {
+  color: white;
+  background-color: rgb(220, 35, 35);
+}
+
+.btn--red:hover {
+  background-color: rgb(214, 85, 85);
+}
