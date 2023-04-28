@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/simplmeals/static/css/main.b49ad0a3.css",
+    "main.js": "/simplmeals/static/js/main.5ff41e5d.js",
+    "static/media/GothamRounded-Book.woff": "/simplmeals/static/media/GothamRounded-Book.e896dcaa7b15c4cc68b1.woff",
+    "static/media/GothamRounded-Bold.woff": "/simplmeals/static/media/GothamRounded-Bold.c934e208dc098861b5ed.woff",
+    "static/media/GothamRounded-Light.woff": "/simplmeals/static/media/GothamRounded-Light.01d0d0553007d6d77ee0.woff",
+    "static/media/GothamRounded-Book.woff2": "/simplmeals/static/media/GothamRounded-Book.4a8c1d2601a0b29b6ce1.woff2",
+    "static/media/GothamRounded-Bold.woff2": "/simplmeals/static/media/GothamRounded-Bold.dd36aa677ebacfedaef5.woff2",
+    "static/media/GothamRounded-Light.woff2": "/simplmeals/static/media/GothamRounded-Light.c27e2b4701d6b86221be.woff2",
+    "index.html": "/simplmeals/index.html",
+    "main.b49ad0a3.css.map": "/simplmeals/static/css/main.b49ad0a3.css.map",
+    "main.5ff41e5d.js.map": "/simplmeals/static/js/main.5ff41e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b49ad0a3.css",
+    "static/js/main.5ff41e5d.js"
+  ]
+}
